@@ -1,25 +1,25 @@
 {
-"name": "console-dot-frog",
+"name": "console-dot-unicorn",
 "version": "1.0.1",
-"description": "Log with a frog, its as simple as that!",
-"main": "console.frog.js",
+"description": "Log with a unicprn, its as simple as that!",
+"main": "console.unicorn.js",
 "scripts": {
   "test": "node test"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/tholman/console-dot-frog.git"
+"url": "git+https://github.com/revoltek-daniel/console-dot-frog.git"
 },
 "keywords": [
 "web",
-"frogging",
+"unicorn",
 "logging",
 "console"
 ],
-"author": "Tim Holman <timothy.w.holman@gmail.com>",
+"author": "revoltek-daniel",
 "license": "MIT",
 "bugs": {
-"url": "https://github.com/tholman/console-dot-frog/issues"
+"url": "https://github.com/revoltek-daniel/console-dot-frog/issues"
 },
-"homepage": "https://github.com/tholman/console-dot-frog#readme"
+"homepage": https://github.com/revoltek-daniel/console-dot-frog#readme"
 }
