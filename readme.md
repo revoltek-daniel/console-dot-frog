@@ -1,6 +1,6 @@
 ###console.unicorn
 
-`console.unicorn` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-frog).
+`console.unicorn` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](https://revoltek-daniel.github.io/console-dot-unicorn/demo/).
 
 ### Preview
 
@@ -57,6 +57,7 @@ Wow. That feels good!
 Simply include the `console.unicorn.js` file into your app!
 
 ###License
+Copyright (c) 2016 revoltek-daniel
 Copyright (c) 2016 Tim Holman - http://tholman.com
 
 The MIT License
