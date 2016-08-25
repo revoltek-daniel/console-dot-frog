@@ -8,7 +8,7 @@
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/revoltek-daniel/console-dot-frog.git"
+"url": "git+https://github.com/revoltek-daniel/console-dot-unicorn.git"
 },
 "keywords": [
 "web",
@@ -19,7 +19,7 @@
 "author": "revoltek-daniel",
 "license": "MIT",
 "bugs": {
-"url": "https://github.com/revoltek-daniel/console-dot-frog/issues"
+"url": "https://github.com/revoltek-daniel/console-dot-unicorn/issues"
 },
-"homepage": https://github.com/revoltek-daniel/console-dot-frog#readme"
+"homepage": "https://github.com/revoltek-daniel/console-dot-unicorn#readme"
 }
